@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: rgb(34, 5, 5);
+    color:white;
+    padding: 20px;
+
+}
+body{
+    background-color: rgb(187, 184, 180);
+}
+#Home p{
+    color: black;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    padding: 20px;
+    color: #053c50;
+    font-size: 20px;
+    text-decoration: none;
+}
+#Home img{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+}
+#Bio p{
+    margin-right: 180px;
+    margin-left: 180px;
+}
+#PortFolio{
+    background-color: #48ec8d;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+
+footer{
+    background-color: black;
+    color:azure;
+    padding: 30px;
+}
